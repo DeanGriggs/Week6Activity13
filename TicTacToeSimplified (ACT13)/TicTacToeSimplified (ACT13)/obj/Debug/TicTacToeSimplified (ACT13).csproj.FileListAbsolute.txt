@@ -1,0 +1,11 @@
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\bin\Debug\TicTacToeSimplified (ACT13).exe.config
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\bin\Debug\TicTacToeSimplified (ACT13).exe
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\bin\Debug\TicTacToeSimplified (ACT13).pdb
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).csproj.AssemblyReference.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).csproj.SuggestedBindingRedirects.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified__ACT13_.Form1.resources
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified__ACT13_.Properties.Resources.resources
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).csproj.GenerateResource.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).csproj.CoreCompileInputs.cache
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).exe
+C:\dean\School\cst-150\cleaned up\Week 6\Act13\TicTacToeSimplified (ACT13)\TicTacToeSimplified (ACT13)\obj\Debug\TicTacToeSimplified (ACT13).pdb
